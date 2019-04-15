@@ -1,0 +1,8 @@
+Obs: Válido para métodos.
+Atributos/métodos estáticos são chamdos de métodos de classe.
+
+Associação-
+
+Def: quando uma classe "a" possui uma referência a uma classe "b". Nesse caso, dizemos que A tem um B(has-a).
+
+has-many quando temos uma classe "A" com array de referencias a uma classe "b". A has-many B
